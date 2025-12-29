@@ -1,0 +1,4 @@
+streamlit
+aiohttp
+python-dotenv
+pyyaml
